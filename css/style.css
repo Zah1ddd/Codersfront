@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  color: purple;
+}
+
+.ad {
+  color: blueviolet;
+}
+
+.azerbaijan {
+  background-color: brown;
+  color: red;
+}
+
+.baku {
+  background-color: aqua;
+}
+
+.btn {
+  color: purple;
+}
+
+.name1 {
+  text-align: center;
+  margin-left: 60px;
+  border: 70px solid yellow;
+  width: 130px;
+
+  padding: 100px 70px;
+}
+
+#head {
+  text-align: center;
+}
+
+.name2 {
+  margin: 40px 20px;
+  border: 30px solid darkgoldenrod;
+  width: 100px;
+}

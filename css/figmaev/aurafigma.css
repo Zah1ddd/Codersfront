@@ -1,0 +1,235 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+.img-container{
+    /* border: 1px solid #000; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: inline-block;
+    background-position: center;
+}
+.img-container img{
+    width: 100%;
+    height: 100vh;
+    /* object-fit: cover; */
+    /* object-position: center; */
+    position: absolute; top: 0;
+    left: 0;
+    background-position: center;
+    background-size: 100%;
+    display: inline-block;
+}
+.navbar{
+    top: 0;
+    right: 0;
+}
+.yazilar-1{
+    color: #FFF;
+text-align: center;
+font-family: "Roboto";
+font-size: 12px;
+font-style: normal;
+font-weight: 900;
+line-height: 75px; /* 416.667% */
+letter-spacing: 7.2px;
+text-transform: uppercase;
+top: 0;
+right: 0;
+position: absolute;
+margin-right: 200px;
+display: inline-block;
+}
+.yazilar-2{
+    color: #FFF;
+text-align: center;
+font-family: "Roboto";
+font-size: 12px;
+font-style: normal;
+font-weight: 900;
+line-height: 75px; /* 416.667% */
+letter-spacing: 7.2px;
+text-transform: uppercase;
+top: 0;
+right: 0;
+position: absolute;
+margin-right: 50px;
+display: inline-block;
+}
+
+.center-yazilar-1{
+    position: absolute;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 75px; /* 312.5% */
+    letter-spacing: 7.2px;
+    text-transform: uppercase;
+    top: 0;
+    display: inline-block;
+    top: 200px;
+    left: 720px;
+    
+}
+.merkezdeki-yazilar{
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    line-height: 75px; /* 312.5% */
+    font-size: 16px;
+    
+}
+.center-yazilar-2{
+ position: absolute;
+ top: 300px;
+ left: 750px;
+ transform: translate(-50%,-50%);
+ color: rgba(255, 255, 255, 0.75);
+ text-align: center;
+ font-family: "Roboto";
+ font-size:92px;
+ font-style: normal;
+ font-weight: 900;
+ line-height: 75px; /* 312.5% */
+ letter-spacing: 7.2px;
+ text-transform: uppercase;
+ display: inline-block;
+}
+.center-yazilar-3{
+    position: absolute;
+    display:inline-block ;
+    top:200px;
+    left:740px;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 75px; /* 312.5% */
+    letter-spacing: 7.2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.center-yazilar-4{
+    color:  rgba(255, 255, 255, 0.75);
+    font-family: "Roboto"; 
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 40px; /* 166.667% */
+    letter-spacing: 7.2px;
+    text-transform: uppercase;
+    position: absolute;
+    display: inline-block;
+    left: 750px;
+    top: 330px;
+}
+.center-yazilar-5{
+    color: rgba(255, 255, 255, 0.75);
+    font-family: "Roboto";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 40px; /* 166.667% */
+    letter-spacing: 7.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    left: 800px;
+    top: 330px;
+    position: absolute;
+}
+.center-yazilar{
+    
+    display: inline-block;
+}
+.z4-herf{
+color: #FFF;
+text-align: center;
+font-family: "Roboto";
+font-size: 24px;
+font-style: normal;
+font-weight: 900;
+line-height: 45px; /* 125% */
+letter-spacing: 14.4px;
+text-transform: uppercase;
+display: inline-block;
+position: absolute;
+}
+.z4-herfyazi-1{
+  top: 0;
+  left: 20px;
+  position: absolute; 
+  display: inline-block;
+}
+.z4-herfyazi-2{
+    top: 0px;
+    left: 40px;
+    position: absolute;
+    display: inline-block; 
+}
+.z4-herfyazi-3{
+    top: 25px;
+    left: 20px;
+    position: absolute; 
+    display: inline-block;
+}
+.z4-herfyazi-4{
+    top: 25px;
+    left: 40px;
+    position: absolute;
+    display: inline-block; 
+}
+.fa-brands{
+    width: 1px;
+    height: 1px;
+    position: absolute;
+    bottom: 1px;
+    color: #FFF;
+    opacity:0.9;
+}
+.fa-facebook{
+    left: 20px;
+   bottom: 100px;
+}
+.fa-instagram{
+    left: 20px;
+    bottom: 80px;
+}
+.fa-twitter{
+    left: 20px;
+    bottom: 60px;
+}
+.scrol{
+    bottom: 100px;
+    right: 5px;
+    transform: rotate(90deg);
+    display: inline-block;
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 45px; /* 125% */
+    letter-spacing: 14.4px;
+    text-transform: uppercase;
+}
+.fa-arrow-down{
+    bottom: 20px;
+    right: 70px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    color: #FFF;
+}

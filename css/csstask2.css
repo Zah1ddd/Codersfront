@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.btn-subscribe{
+    
+    
+    /* background-color:linear-gradient(90deg, #FFE259 15.10%); */
+    
+    color: #000;
+    border-radius: 36px;
+    background:  linear-gradient(90deg, #FFE259 15.1%, #FFA751 85.42%);
+    ;
+  
+   
+
+}
+.container{
+    width: 1000px;
+    height: 1000px;
+    background-color: #fff;
+    text-align: center;
+    margin-top: 220px;
+}
+.btn-add{
+    margin-top: 40px;
+    border-color: #B8DAFF;
+    background: #B8DAFF;;
+}
+.btn{
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding: 17px 30px;
+}
+.btn-delete{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 60px;
+    background-color: transparent;
+    border-style: dashed;   
+    padding: 16px 26px;  
+    border: 1px dashed #E63946;
+}
